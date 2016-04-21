@@ -52,7 +52,7 @@ library(betapart) # to compute Beta-Diversity matrices
 library(ecodist) # to compute correlations profiles (function 'MRM')
 library(bigmemory)
 
-source("PubliBDTTfunctions.R") #load all associated functions, used to run BDTT
+source("BDTT_functions.R") #load all associated functions, used to run BDTT
 
 # Examples
 data(phylocom)
